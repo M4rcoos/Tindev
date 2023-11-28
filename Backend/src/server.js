@@ -10,7 +10,7 @@ const server = express();
 
 //Se conectando com o banco de dados...
 mongoose.connect(
-  "mongodb+srv://tinderDev:tinderDev@cluster0.t8sib.mongodb.net/tinderDev?retryWrites=true&w=majority",
+  "mongodb+srv://tinderDev:b2HavfxF0EVpXAVJ@cluster0.wzwdxbh.mongodb.net/?retryWrites=true&w=majority",
   {
     //informando para o moongose que pode aceitar os novos formatos de URL
     useNewUrlParser: true,
